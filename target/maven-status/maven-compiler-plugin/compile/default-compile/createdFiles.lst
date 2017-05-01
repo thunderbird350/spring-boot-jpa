@@ -1,0 +1,7 @@
+com\domain\User.class
+com\repository\UserBaseRepository.class
+com\model\UserInfo.class
+com\controller\SpringBootController.class
+com\service\impl\UserServiceImpl.class
+com\SpringBoot.class
+com\service\UserService.class
